@@ -1,0 +1,377 @@
+/* ------------------------ 
+    Max Width 1280px 
+------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ 
+    Max Width 1080px 
+------------------------ */
+@media (max-width: 1080px) {
+.banner {
+    min-height:450px;
+}
+.add_ban .content .grid_left {
+    left:0%;
+}
+}
+/* ------------------------ 
+    Max Width 1024px 
+------------------------ */
+@media (max-width: 1024px) {
+
+}
+/* ------------------------ 
+    Min Width 1000px 
+------------------------ */
+@media (min-width: 1000px) {
+
+}
+/* ------------------------ 
+    Max Width 966px 
+------------------------ */
+@media (max-width: 966px) {
+.banner {
+    min-height: 400px;
+}
+.banner .caption {
+    width: 40%;
+    top: 25%;
+    left: 10%;
+}
+.benefits .details {
+    width:100%;
+}
+.add_ban .content .grid_right {
+    width: 50%;
+}
+.testimonial .details p {
+    width:100%;
+}
+.testimonial .grid_list .list .s_grid_list .s_list .a_det {
+    padding: 20px;
+}
+.testimonial .grid_list .list .s_grid_list .s_list .a_det p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.testimonial .grid_list .list .s_grid_list .s_list .a_det p::before{
+    font-size: 56px;
+    top: 25px;
+    left: 0px;
+}
+.iconic ul li {
+    padding: 0px 10px;
+}
+.iconic ul li span {
+    font-size:14px;
+}
+.footer .listi .grid_left .row_c .cus_col {
+    flex-basis: 50%;
+    margin-bottom: 30px;
+}
+}
+/* ------------------------ 
+    Max Width 853px 
+------------------------ */
+@media (max-width: 853px) {
+.menu nav.navbar .search {
+    display: block;
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+}
+}
+/* ------------------------ 
+    Max Width 800px 
+------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------ 
+    Min Width 769px 
+------------------------ */
+@media (min-width: 769px) {
+
+}
+/* ------------------------ 
+    Max Width 768px 
+------------------------ */
+@media (max-width: 768px) {
+.menu {
+    padding:10px 0px;
+}
+.banner {
+    min-height: 350px;
+}
+.banner .caption h2 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.banner .caption h4 {
+    font-size: 20px;
+}
+.benefits .details h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.benefits .water_sp li .grid .content {
+    width: 250px;
+    height: 250px;
+}
+.add_ban .content .grid_left {
+    left: 0%;
+    height: auto;
+}
+.add_ban .content .grid_left img {
+    height: auto;
+    width: 100%;
+}
+.add_ban .content .grid_right {
+    width: 70%;
+    margin-left: 30%;
+}
+.testimonial .grid_list {
+    justify-content:left;
+}
+.testimonial .grid_list .list .s_grid_list .s_list .a_det {
+    padding: 30px 50px;
+}
+.add_ban .content .grid_right h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.testimonial {
+    padding:40px 0px;
+}
+.testimonial .grid_list .list {
+    flex-basis: 50%;
+}
+.testimonial .details p {
+    font-size: 26px;
+    line-height: 36px;
+}
+.add_ban {
+    padding-top: 0;
+}
+}
+/* ------------------------ 
+    Max Width 736px 
+------------------------ */
+@media (max-width: 736px) {
+.footer .listi .grid_left {
+    flex-basis: 100%;
+}
+.footer .listi .grid_right {
+    flex-basis: 100%;
+    padding:40px;
+}
+.footer .listi .grid_left .row_c .cus_col {
+    flex-basis: 33%;
+    margin-bottom: 0px;
+}
+.footer .listi .grid_right::after {
+    width:300%;
+    left:-20%;
+}
+}
+/* ------------------------ 
+    Max Width 720px 
+------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ 
+    Max Width 690px 
+------------------------ */
+@media (max-width: 690px) {
+.benefits .water_sp li .grid .content {
+    width: 230px;
+    height: 230px;
+}
+.benefits .water_sp li .grid .content h3 {
+    font-size: 20px;
+    margin-bottom:5px;
+}
+.benefits .water_sp li .grid .content p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.benefits {
+    padding-bottom:40px;
+}
+.banner {
+    min-height: 200px;
+}
+.benefits .water_sp li .grid .content {
+    width: 200px;
+    height: 200px;
+}
+.benefits .water_sp li:nth-child(2) .grid .content {
+    padding: 25px 10px;
+}
+}
+/* ------------------------ 
+    Max Width 667px 
+------------------------ */
+@media (max-width: 667px) {
+.menu nav.navbar .navbar-nav li {
+    display: block;
+    text-align:left;
+}
+}
+/* ------------------------ 
+    Max Width 640px 
+------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ 
+    Max Width 603px 
+------------------------ */
+@media (max-width: 603px) {
+
+}
+/* ------------------------ 
+    Max Width 600px 
+------------------------ */
+@media (max-width: 600px) {
+
+}
+/* ------------------------ 
+    Max Width 568px 
+------------------------ */
+@media (max-width: 568px) {
+.banner .caption {
+    width: 50%;
+}
+.banner .caption h2 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.banner .caption h4 {
+    font-size: 17px;
+}
+}
+/* ------------------------ 
+    Max Width 533px 
+------------------------ */
+@media (max-width: 533px) {
+
+}
+/* ------------------------ 
+    Max Width 480px 
+------------------------ */
+@media (max-width: 480px) {
+.testimonial .grid_list .list {
+    flex-basis: 100%;
+    margin-bottom: 4em;
+}
+.testimonial .grid_list .list:nth-child(2) .s_grid_list {
+    flex-direction: column;
+}
+.testimonial .grid_list .list:nth-child(2) .s_grid_list .s_list .a_det .det {
+    transform: rotate(180deg);
+    top: -25px;
+    bottom: auto;
+}
+.testimonial .grid_list .list .s_grid_list .s_list .a_det p::before {
+    left: 20px;
+}
+.iconic ul li {
+    width: 50%;
+    float: left;
+    margin-bottom: 1em;
+}
+.footer .listi .grid_left .row_c .cus_col {
+    flex-basis: 50%;
+    margin-bottom: 30px;
+}
+}
+/* ------------------------ 
+    Max Width 414px 
+------------------------ */
+@media (max-width: 414px) {
+.benefits .water_sp {
+    flex-wrap: wrap;
+}
+.benefits .details {
+    margin-bottom: 0;
+}
+.benefits .water_sp li {
+    flex-basis: calc(100% - 0px);
+}
+.benefits .water_sp li:nth-child(1) {
+    right: 0;
+    bottom: -40px;
+}
+.benefits .water_sp li:nth-child(2) .grid .content {
+    padding: 50px 20px;
+}
+.benefits .water_sp li .grid .content {
+    width: 280px;
+    height: 280px;
+}
+.benefits .water_sp li:nth-child(3) {
+    left: 0;
+    top: -40px;
+}
+.add_ban .content {
+    padding: 40px 0px 250px 0px;
+}
+.add_ban .content .grid_left {
+    left: 20%;
+    width: 60%;
+}
+.add_ban .content .grid_right {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+}
+.benefits {
+    padding-bottom: 0;
+}
+.benefits .water_sp li:nth-child(1) .grid,
+.benefits .water_sp li:nth-child(3) .grid {
+    padding:0px;
+}
+.benefits .water_sp li:nth-child(2) .grid {
+    padding:35px;
+}
+.footer .listi .grid_left .row_c .cus_col {
+    flex-basis:100%;
+}
+}
+/* ------------------------ 
+    Max Width 384px 
+------------------------ */
+@media (max-width: 384px) {
+.banner {
+    min-height: 140px;
+}
+}
+/* ------------------------ 
+    Max Width 375px 
+------------------------ */
+@media (max-width: 375px) {
+.iconic ul {
+    text-align:left;
+}
+.iconic ul li {
+    width:100%;
+}
+}
+/* ------------------------ 
+    Max Width 320px 
+------------------------ */
+@media (max-width: 320px) {
+.banner .caption {
+    width: 60%;
+    top: 25%;
+    left: 3%;
+}
+.benefits .water_sp li .grid .content {
+    width: 250px;
+    height: 250px;
+}
+}
